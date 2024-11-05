@@ -1,0 +1,112 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg":"#45494e",
+            "hovered_bg":"#35393e",
+            "disabled_bg":"#25292e",
+            "selected_bg":"#193754",
+            "dark_bg":"#15191e",
+            "normal_text":"#c5cbd8",
+            "hovered_text":"#FFFFFF",
+            "selected_text":"#FFFFFF",
+            "disabled_text":"#6d736f",
+            "link_text": "#0000EE",
+            "link_hover": "#2020FF",
+            "link_selected": "#551A8B",
+            "text_shadow": "#777777",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0",
+            "filled_bar":"#f4251b",
+            "unfilled_bar":"#CCCCCC"
+        },
+        "font": 
+        {
+           "name": "AoboshiOne",
+           "size": "36",
+           "bold": "0",
+           "italic": "0",
+           "regular_path": "fonts/AoboshiOne-Regular.ttf"
+        }
+    },
+    "label":
+   {
+       "colours":
+       {
+           "normal_text": "#ffffff",
+           "text_shadow": "#505050"
+       },
+       "font":
+       {
+           "name": "AoboshiOne",
+           "size": "36",
+           "bold": "0",
+           "italic": "0",
+           "regular_path": "fonts/AoboshiOne-Regular.ttf"
+       },
+       "misc":
+       {
+           "text_shadow": "1",
+           "text_shadow_size": "1",
+           "text_shadow_offset": "0,0"
+       }
+   },
+   "drop_down_menu.button":
+   {
+       "colours":
+       {
+           "normal_text": "#ffffff",
+           "text_shadow": "#505050"
+       },
+       "font":
+       {
+           "name": "AoboshiOne",
+           "size": "28",
+           "bold": "0",
+           "italic": "0",
+           "regular_path": "fonts/AoboshiOne-Regular.ttf"
+       }
+   },
+   "drop_down_menu.#drop_down_options_list.button":
+   {
+       "colours":
+       {
+           "normal_text": "#ffffff",
+           "text_shadow": "#505050"
+       },
+       "font":
+       {
+           "name": "AoboshiOne",
+           "size": "14",
+           "bold": "0",
+           "italic": "0",
+           "regular_path": "fonts/AoboshiOne-Regular.ttf"
+       }
+   },
+   "#helptext":
+   {
+       "colours":
+       {
+           "normal_text": "#ffffff",
+           "text_shadow": "#505050"
+       },
+       "font":
+       {
+           "name": "AoboshiOne",
+           "size": "26",
+           "bold": "0",
+           "italic": "0",
+           "regular_path": "fonts/AoboshiOne-Regular.ttf"
+       },
+       "misc":
+       {
+           "text_shadow": "1",
+           "text_shadow_size": "1",
+           "text_shadow_offset": "0,0"
+       }
+   }
+}
